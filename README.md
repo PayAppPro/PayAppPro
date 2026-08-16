@@ -58,6 +58,21 @@ Key focus areas:
 
 👉 https://lienwaiverpro.com
 
+### DailyLogsPro
+
+DailyLogsPro helps subcontractors turn daily field activity into organized, verifiable project documentation.
+
+Key focus areas:
+
+- Construction daily logs and field reports
+- Labor, weather, delays, deliveries, and inspections
+- Timestamped jobsite photos with captions
+- Offline field capture and office review
+- Change-order documentation and authorization
+- Integration with PayAppPro for approved-change billing
+
+👉 https://dailylogspro.com
+
 ---
 
 ## Philosophy
