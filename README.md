@@ -60,7 +60,7 @@ Key focus areas:
 
 ### DailyLogsPro
 
-DailyLogsPro helps subcontractors turn daily field activity into organized, verifiable project documentation.
+**DailyLogsPro** helps subcontractors turn daily field activity into organized, verifiable project documentation.
 
 Key focus areas:
 
